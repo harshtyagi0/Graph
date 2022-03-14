@@ -38,6 +38,7 @@ public class Graph {
 	        }
 	    }
 	 }
+//	DFS
 	void DFSUtil(int v, boolean visited[])
     {
         visited[v] = true;
